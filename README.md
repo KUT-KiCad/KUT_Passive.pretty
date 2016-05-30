@@ -1,2 +1,2 @@
-# KRC_Passive.pretty
-KiCad Passive footprint library
+# KUT_Passive.pretty
+KUT KiCad Passive footprint library
