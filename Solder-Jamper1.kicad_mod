@@ -1,4 +1,4 @@
-(module STR-Jamper1 (layer F.Cu) (tedit 5662655A)
+(module Solder-Jamper1 (layer F.Cu) (tedit 5662655A)
   (fp_text reference REF** (at 0 1.95) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
